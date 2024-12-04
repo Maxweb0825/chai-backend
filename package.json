@@ -1,0 +1,16 @@
+{
+  "name": "night-backend",
+  "version": "1.0.0",
+  "description": "Learning about how to setup node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Meet Pokiya",
+  "license": "ISC"
+}
